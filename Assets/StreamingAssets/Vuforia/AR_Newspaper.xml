@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ad" size="0.210000 0.330312" />
+    <ImageTarget name="page" size="0.210000 0.130013" />
+    <ImageTarget name="messi" size="0.210000 0.145714" />
+    <ImageTarget name="tajlandsend" size="0.210000 0.164740" />
+  </Tracking>
+</QCARConfig>
